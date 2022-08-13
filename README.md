@@ -1,6 +1,6 @@
 
-1.npm install
-2.ne serve
+1. npm install
+2. ng serve
 
 ## Development server
 
